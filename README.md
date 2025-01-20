@@ -62,7 +62,7 @@ Before you begin, ensure you have met the following requirements:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your_username/finda_connect.git
+    git clone https://github.com/Mr-Ade/finda_connect.git
     cd finda_connect
     ```
 
